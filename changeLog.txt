@@ -1,0 +1,2 @@
+Change log (January 7th, 2019)
+- Added Ability to read from order.txt in checkout.py
